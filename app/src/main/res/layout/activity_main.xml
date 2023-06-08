@@ -82,6 +82,7 @@
         android:layout_marginTop="201dp"
         android:background="#006064"
         android:backgroundTint="#FF6F00"
+        android:onClick="btnEnviar"
         android:text="Enviar"
         android:textColorHighlight="#004D40"
         android:textColorLink="#0D47A1"
